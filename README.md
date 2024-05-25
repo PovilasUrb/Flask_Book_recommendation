@@ -1,4 +1,4 @@
-### A very Book recommendation system using flask and a similarity matrix
+### A very simple Book recommendation system using flask and a similarity matrix
 
 ## [Step 1]
 ### Download the csv files and put them into the data/ direcotry:
